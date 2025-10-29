@@ -1,6 +1,3 @@
-# NVIDIA_NIM_Demo
-
-
 
 # NVIDIA AI Document Q&A with LangChain and Streamlit
 
