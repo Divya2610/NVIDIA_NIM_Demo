@@ -57,10 +57,6 @@ This project demonstrates how to use **NVIDIA’s AI Inference Endpoints** with 
 
 ### 1. Clone the repository
 
-```bash
-git clone https://github.com/your-username/NVIDIA-QA-App.git
-cd NVIDIA-QA-App
-```
 
 ### 2. Create a virtual environment
 
